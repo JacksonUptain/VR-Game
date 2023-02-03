@@ -1,0 +1,11 @@
+Model Information:
+* title:	Castle village scene
+* source:	https://sketchfab.com/3d-models/castle-village-scene-675b3afce21a4acaa1140645a5206db3
+* author:	BlackSpire (https://sketchfab.com/blackspire)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Castle village scene" (https://sketchfab.com/3d-models/castle-village-scene-675b3afce21a4acaa1140645a5206db3) by BlackSpire (https://sketchfab.com/blackspire) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
