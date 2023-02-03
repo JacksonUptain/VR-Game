@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mando Helmet
+* source:	https://sketchfab.com/3d-models/mando-helmet-9da2e7fc67de443e95e190fc0c29f0c7
+* author:	McCarthy3D (https://sketchfab.com/joshuawatt811)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mando Helmet" (https://sketchfab.com/3d-models/mando-helmet-9da2e7fc67de443e95e190fc0c29f0c7) by McCarthy3D (https://sketchfab.com/joshuawatt811) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
